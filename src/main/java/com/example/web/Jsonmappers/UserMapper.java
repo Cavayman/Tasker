@@ -1,4 +1,4 @@
-package com.example.web.mappers;
+package com.example.web.jsonMappers;
 
 
 import com.example.repository.domain.User;
@@ -7,7 +7,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
-import java.sql.Date;
 import java.util.ArrayList;
 import java.util.List;
 

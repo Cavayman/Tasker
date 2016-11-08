@@ -3,7 +3,7 @@ package com.example.web;
 import com.example.repository.domain.Movie;
 import com.example.service.MovieService;
 
-import com.example.web.mappers.MovieMapper;
+import com.example.web.jsonMappers.MovieMapper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;

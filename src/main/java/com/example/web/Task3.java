@@ -1,8 +1,7 @@
 package com.example.web;
 
-import com.example.repository.dao.RatingDAO;
 import com.example.service.RatingService;
-import com.example.web.mappers.RatingMapper;
+import com.example.web.jsonMappers.RatingMapper;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 

@@ -1,10 +1,7 @@
 package com.example.web;
 
-import com.example.service.MovieService;
 import com.example.service.RatingService;
-import com.example.web.DTO.RatingUserMovieDTO;
-import com.example.web.mappers.MovieMapper;
-import com.example.web.mappers.RatingUserMovieDTOMapper;
+import com.example.web.jsonMappers.RatingUserMovieDTOMapper;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 

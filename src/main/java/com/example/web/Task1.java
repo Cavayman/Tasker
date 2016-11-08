@@ -1,14 +1,9 @@
 package com.example.web;
 
-import com.example.repository.domain.Movie;
 import com.example.repository.domain.Rating;
-import com.example.repository.domain.User;
-import com.example.service.MovieService;
 import com.example.service.RatingService;
-import com.example.service.UserService;
-import com.example.web.mappers.RatingMapper;
+import com.example.web.jsonMappers.RatingMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.mysql.cj.x.json.JsonArray;
 
 import javax.annotation.Resource;
 import javax.servlet.ServletException;

@@ -1,4 +1,4 @@
-package com.example.web.mappers;
+package com.example.web.jsonMappers;
 
 import com.example.repository.domain.Movie;
 import com.fasterxml.jackson.databind.JsonNode;

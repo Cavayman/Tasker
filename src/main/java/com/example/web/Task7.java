@@ -1,10 +1,8 @@
 package com.example.web;
 
 import com.example.repository.domain.User;
-import com.example.service.MovieService;
 import com.example.service.UserService;
-import com.example.web.mappers.MovieMapper;
-import com.example.web.mappers.UserMapper;
+import com.example.web.jsonMappers.UserMapper;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
